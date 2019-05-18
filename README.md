@@ -6,4 +6,4 @@ Flask REST API with JWT authentication, including flask and flask-restfull
 
 or run with flask:
 
-    $ FLASK_APP=my-app.py FLASK_DEBUG=1 flask run
+    $ FLASK_APP=flask-rest-app.py FLASK_DEBUG=1 flask run
